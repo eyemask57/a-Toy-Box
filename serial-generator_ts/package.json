@@ -1,0 +1,16 @@
+{
+  "name": "serial-generator",
+  "version": "1.0.0",
+  "description": "nothing special",
+  "license": "MIT",
+  "author": "eyemask57",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "typescript": "^5.9.3"
+  }
+}
